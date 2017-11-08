@@ -1,3 +1,3 @@
 <?php
-require 'controllers/IndexController.php';
+require 'controllers/indexController.php';
  ?>
